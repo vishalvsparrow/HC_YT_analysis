@@ -1,0 +1,11 @@
+level1,SUM of total.seconds,SUM of likes,SUM of dislikes,SUM of Impressions,SUM of view.seconds,COUNTA of level1,SUM of Views,%engagement,likes per video,Impression CTR
+behind the scenes,2536,16,0,11377,886,7,1048,34.94%,2.285714286,9.21%
+company guide,341,15,0,8143,194,3,1514,56.89%,5,18.59%
+customer review,120,3,0,1955,56,1,738,46.67%,3,37.75%
+customer story,102,4,0,1072,61,1,85,59.80%,4,7.93%
+customer visit,3659,27,0,9701,1109,5,1202,30.31%,5.4,12.39%
+education,3320,34,1,21281,1293,8,1781,38.95%,4.25,8.37%
+product guide,1922,40,1,24005,826,8,4490,42.98%,5,18.70%
+stylist interview,1169,7,0,5099,332,2,705,28.40%,3.5,13.83%
+tutorial,9322,119,13,30585,2701,16,14933,28.97%,7.4375,48.82%
+Grand Total,22491,265,15,113218,7458,51,26496,,,
